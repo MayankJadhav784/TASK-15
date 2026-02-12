@@ -1,0 +1,25 @@
+Champions:
+- Offer exclusive rewards and VIP programs.
+- Give early access to new products.
+- Encourage referrals and testimonials.
+
+Loyal:
+- Provide personalized recommendations.
+- Offer bundled discounts.
+- Invite them to loyalty programs.
+
+At Risk:
+- Send re-engagement emails with special offers.
+- Collect feedback to understand drop-off.
+- Offer time-limited promotions.
+
+Need Attention:
+- Send reminder emails.
+- Offer small incentives to return.
+- Highlight trending products.
+
+Others:
+- Run awareness campaigns.
+- Offer first-time buyer discounts.
+- Educate them about product benefits.
+
